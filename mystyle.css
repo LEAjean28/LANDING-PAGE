@@ -1,0 +1,355 @@
+body{
+    background-color: rgba(3, 17, 12, 0.959);
+}
+
+.firstimg
+    {
+        width: 35.9cm;
+        height: 10cm ; 
+        left:0px;
+
+    }
+
+.secImg
+    {
+        width: 3cm;
+        height: 3cm;
+        position: absolute;
+        top: 40px;
+        left:12px; 
+    }
+
+    .bottom-left {
+        position: absolute;
+        top: 70px;
+        left: 140px;
+        font: 1.5em Serif;
+        color: peachpuff;
+        }
+
+    .top-left {
+        position: absolute;
+        top: 210px;
+        left: 260px;
+        font: 4em Serif;
+        color: peachpuff;
+        }   
+
+    .top-right {
+        position: absolute;
+        top: 90px;
+        right: 30px;
+        font: 1em Serif ;
+        color: peachpuff;
+    } 
+
+.BG1 {
+    width: 29cm;
+    height: 23cm;
+    position: absolute;
+    top: 10;
+    left:20px; 
+}
+
+.Ri{
+    position: absolute;
+        top: 850px;
+        right: 20px;
+        font: 3rem Serif;
+        color: peachpuff;
+        background-color: rgba(3, 17, 12, 0.959);
+        padding: 30px;
+        padding-left: 80px;
+        padding-right: 200px;
+        border-radius: 20px; 
+ }      
+
+.h1{
+    margin-top: 10px;
+    padding: 20px;
+    font: 1.5em Serif;
+    background-color: palegoldenrod;width: 96%;
+    border: 5px solid rgb(11, 111, 114);
+
+}
+
+ .Prod1{
+
+        width: 10cm;
+        height: 10cm;
+        left: 10px;
+        margin-top: 50px;
+ }
+
+ .bottom1{
+
+    position: absolute;
+    top: 700px;
+    left: 389px;
+    font: 2em Serif;
+    color: peachpuff;
+
+ }
+.Prod2{
+
+    width: 10cm;
+    height: 10cm;
+    margin-left:300px;
+    right: 100px;
+ }
+
+ .bottom2{
+
+    position: absolute;
+    top: 700px;
+    right: 95px;
+    font: 2em Serif;
+    color: peachpuff;
+ }
+
+ .Prod3{
+
+    top: 1400px;
+    width: 10cm;
+    height: 10cm;
+    margin-top: 50px;
+    left: 10px;
+}
+
+.bottom3{
+
+position: absolute;
+top: 1120px;
+left: 389px;
+font: 2em Serif;
+color: peachpuff;
+
+}
+
+ .Prod4{
+
+    top: 1400px;
+    width: 10cm;
+    height: 10cm;
+    margin-top: 50px;
+    margin-left:300px;
+    right: 100px;
+}
+
+.bottom4{
+
+    position: absolute;
+    top: 1120px;
+    right: 95px;
+    font: 2em Serif;
+    color: peachpuff;
+ }
+
+ .Prod5{
+
+    top: 1400px;
+    width: 10cm;
+    height: 10cm;
+    margin-top: 50px;
+    left: 10px;
+}
+
+.bottom5{
+
+position: absolute;
+top: 1550px;
+left: 389px;
+font: 2em Serif;
+color: peachpuff;
+}
+
+ .Prod6{
+
+    top: 1400px;
+    width: 10cm;
+    height: 10cm;
+    margin-top: 50px;
+    margin-left:300px;
+    right: 100px;
+}
+
+.bottom6{
+
+    position: absolute;
+    top: 1550px;
+    right: 95px;
+    font: 2em Serif;
+    color: peachpuff;
+    }
+
+ .Prod7{
+
+    top: 1400px;
+    width: 10cm;
+    height: 10cm;
+    margin-top: 50px;
+    left: 10px;
+}
+
+.bottom7{
+
+    position: absolute;
+    top: 2000px;
+    left: 389px;
+    font: 2em Serif;
+    color: peachpuff;
+    }
+
+ .Prod8{
+
+    top: 1400px;
+    width: 10cm;
+    height: 10cm;
+    margin-top: 50px;
+    margin-left:300px;
+    right: 100px;
+}
+
+.bottom8{
+
+    position: absolute;
+    top: 2000px;
+    right: 95px;
+    font: 2em Serif;
+    color: peachpuff;
+    }
+
+ .Prod9{
+
+    top: 1400px;
+    width: 10cm;
+    height: 10cm;
+    margin-top: 50px;
+    left: 10px;
+}
+
+.bottom9{
+
+    position: absolute;
+    top: 2400px;
+    left: 389px;
+    font: 2em Serif;
+    color: peachpuff;
+    }
+
+ .Prod10{
+
+    top: 1400px;
+    width: 10cm;
+    height: 10cm;
+    margin-top: 50px;
+    margin-left:300px;
+    right: 100px;
+}
+
+.bottom10{
+
+    position: absolute;
+    top: 2400px;
+    right: 95px;
+    font: 2em Serif;
+    color: peachpuff;
+    }
+
+
+.LG{
+    margin-left: 6.9cm;
+    left: 0cm;
+    width: 20cm;
+    height: 15cm;
+}
+
+.top{
+    position: absolute;
+        top: 1000px;
+        left: 10px;
+        margin: 50px;
+        font: 1.5em Serif;
+        color: rgba(3, 17, 12, 0.959);
+        background-color: palegoldenrod;
+        padding-top: 60px;
+        padding: 50px;
+        text-align: center;
+        } 
+        
+
+
+.LG1{
+    margin-top: 30px;
+    margin-left: 0cm;
+    left: 0cm;
+    width:1;
+    height: 11cm;
+}
+
+.top1
+{
+    position: absolute;
+    top: 650px;
+    right: 0px;
+    width: 750px;
+    height: 100px;
+    margin-left: 50px;
+    padding-left: 50px;
+    padding-top:  50px;
+    padding-bottom: 20px;
+    margin: 5px;
+    font: 1.2em Serif;
+    color: rgba(3, 17, 12, 0.959);
+    background-color: palegoldenrod;
+
+    } 
+    
+
+
+
+
+.LG2{
+    margin-left: 6.9cm;
+    left: 0cm;
+    width: 20cm;
+    height: 15cm;
+}
+
+.S1{
+    margin-top: 30px;
+    margin-left: 1.5cm;
+    left: 0cm;
+    width:8cm;
+    height: 10cm;
+}
+
+.S2{
+    margin-top: 30px;
+    margin-left: 0cm;
+    left: 0cm;
+    width:8cm;
+    height: 10cm;
+}
+
+.S3{
+    margin-top: 30px;
+    margin-left: 0cm;
+    left: 0cm;
+    width:8cm;
+    height: 10cm;
+}
+
+.S4{
+    margin-top: 30px;
+    margin-left: 0cm;
+    left: 0cm;
+    width:8cm;
+    height: 10cm;
+}
+
+
+
+
+
+
